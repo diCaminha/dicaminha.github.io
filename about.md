@@ -17,9 +17,10 @@ If you like ~~(or dislike)~~ any one of those, **come over**
 
 ### More Information
 
-Recently I'm **studying** at Universidade Federal do Ceará and **working** at [Infarma Sistemas](www.infarma.com.br)
+Recently I'm:
+**studying** at Universidade Federal do Ceará;
+**working** at [Infarma Sistemas](www.infarma.com.br);
 
 
 ### Contact me
-
-[email@domain.com](mailto:dineresc@gmail.com)
+[dineresc@gmail.com](mailto:dineresc@gmail.com)
