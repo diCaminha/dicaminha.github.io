@@ -1,9 +1,10 @@
 ---
 layout: page
-#### **OBS**:*I'll be writing some times in Portuguese, and others in English and hardly ever in both... dunno, only the time, mood and situation will tell.*
 title: About
 permalink: /about/
 ---
+
+##### **OBS**:*I'll be writing some times in Portuguese, and others in English and hardly ever in both... dunno, only the time, mood and situation will tell.*
 
 A Brazilian guy, who is every damn day fetching new stuffs and improving skills about:
 + Ruby on Rails
