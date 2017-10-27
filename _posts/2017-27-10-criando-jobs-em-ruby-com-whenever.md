@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API DO GOOGLE MAPS EM PROJETO ANDROID
+title: (WHENEVER) FACILIDADE EM SCHEDULING JOBS EM ROR
 ---
 
 Há um tempo atrás, para um projeto na empresa a qual trabalho,  tive que lhe dar com a questão de criar jobs em RoR
