@@ -1,3 +1,8 @@
+---
+layout: post
+title: API DO GOOGLE MAPS EM PROJETO ANDROID
+---
+
 Há um tempo atrás, para um projeto na empresa a qual trabalho,  tive que lhe dar com a questão de criar jobs em RoR
 que realize tasks temporariamente, foi ai que encontrei essa gem bastante simples, e eficiente.
 
