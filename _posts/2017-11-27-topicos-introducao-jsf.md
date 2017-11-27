@@ -1,9 +1,9 @@
 ---
 layout: post
-title: CONCEITOS INTRODUTÓRIOS AO FRAMEWORK WEB JSF
+title: CONCEITOS INTRODUTÓRIOS AO JSF 2
 ---
 
-Olá, hoje vou trazer aqui alguns pontos importantes para se ter conhecimento caso queira ter um bom background sobre a esoecificação JAVA
+Olá, hoje vou trazer aqui alguns pontos importantes para se ter conhecimento caso queira ter um bom background sobre a especificação JAVA
 **Java Server Faces** (JSF) bastante usado na construção de interfaces de usuário baseada em componentes para app WEB.
 
 *OBS: Esse post é baseado em uma revisão sobre JSF disponível na plataforma de ensino online ALURA*
