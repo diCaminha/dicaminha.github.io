@@ -63,7 +63,7 @@ O JSF tem como características:
     *OBS: No caso do primeiro HTTP GET request, só acontece a primeira e a últimas fases*
     
     **8. Usando Ajax**
-    através do component <h:ajax> Serão feitas requisições via ajax, podendo enviar partes de formulario/página.
+    Através do component <h:ajax> Serão feitas requisições via ajax, podendo enviar partes de formulario/página.
     
     **9.Templates com facelets**
     O JSF 2 usa facelets para aplicar templates nas páginas xhtml.
