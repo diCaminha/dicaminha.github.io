@@ -24,7 +24,7 @@ O JSF tem como características:
  com esses components (ficará guardado em memória). Essa árvore só é construida na primeira requisição (HTTP GET), nas demais, ele recebe 
  um idView correspondente à view que ja foi instanciada uma vez, e então busca sua àrvore correspondente.
  
- **4. Scope Annotations **
+ **4. Scope Annotations**
  Vão definir quanto tempo vive um Bean na aplicação.
  . @ViewScoped:  vive enquanto acessa mesma pagina, enquanto a tela existe
  . @RequestedScope: vive durante uma requisição
