@@ -53,19 +53,20 @@ O JSF tem como características:
    
    **7.Clico de vida**
    O clico de uma requisição no JSF segue a seguinte ordem:
-    .Restorar a View
-    .Adicionar os valored de request na view carregada
-    .Proceso de Validação (Fazer a validação e converção)
-    .Atualiza os dados do model correspondente
-    .Invoca a aplicação (commandButton ou CommandLink...)
-    . Renderiza Resposta
+      1.Restorar a View
+      2.Adicionar os valored de request na view carregada
+      3.Proceso de Validação (Fazer a validação e converção)
+      4.Atualiza os dados do model correspondente
+      5.Invoca a aplicação (commandButton ou CommandLink...)
+      6.Renderiza Resposta.
+   
+   *OBS: No caso do primeiro HTTP GET request, só acontece a primeira e a últimas fases*
+   
     
-    *OBS: No caso do primeiro HTTP GET request, só acontece a primeira e a últimas fases*
-    
-    **8. Usando Ajax**
+   **8. Usando Ajax**
     Através do component <h:ajax> Serão feitas requisições via ajax, podendo enviar partes de formulario/página.
     
-    **9.Templates com facelets**
+   **9.Templates com facelets**
     O JSF 2 usa facelets para aplicar templates nas páginas xhtml.
     A associação é feita envolvendo todo o conteúdo da página que importará o template pela tag ui:composition, 
     indicando pelo atributo template, o template a ser associado.
