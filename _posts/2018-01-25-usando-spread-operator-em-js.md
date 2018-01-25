@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: USUFRUINDO DO SPREAD OPERATOR (...) EM JS
