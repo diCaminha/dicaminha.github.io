@@ -8,7 +8,7 @@ escrever código javascript, dando incrível dinamismo na sintax da linguagem JS
 e **Spread Operator**.
 Nesse Artigo vou dar uma breve introdução e exemplos de uso com esse último.
 
-##Spread Operator (...)
+## Spread Operator (...)
 
 **Sobre**
 Spread Operator é uma forma de transformar um *array* em uma sequência de parâmetros. Isso quer dizer que se
