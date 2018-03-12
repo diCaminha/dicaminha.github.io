@@ -2,12 +2,10 @@
 layout: post
 title: INTRODUCTION TO GRAPHQL FOR REST DEVS
 ---
-
-## Introduction
-  Hi there! 
-  First of all this article is not exactly a well done comparation article between two tools (architecture to be more precise). I will
-  humbly try to show you some of concerns and highlights about to concepts used to transfer/achieve data on the web: GraphQL and REST.  
-  First I'm gonna review what is REST after all, then I will explore the weakness of this concept, and finally introduce GraphQL.
+Hi there! 
+First of all this article is not exactly a well done comparation article between two tools (architecture to be more precise). I will
+humbly try to show you some of concerns and highlights about to concepts used to transfer/achieve data on the web: GraphQL and REST.  
+First I'm gonna review what is REST after all, then I will explore the weakness of this concept, and finally introduce GraphQL.
   
 ## *RE*presentation *S*tate *T*ransfer
   To get a good enough knowledge about what really is REST we need to review a little bit **'HTTP Verbs'** or the famous HTTP methods
