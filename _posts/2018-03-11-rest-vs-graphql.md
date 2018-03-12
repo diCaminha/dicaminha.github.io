@@ -1,3 +1,8 @@
+---
+layout: post
+title: INTRODUCTION TO GRAPHQL FOR REST DEVS
+---
+
 ## Introduction
   Hi there! 
   First of all this article is not exactly a well done comparation article between two tools (architecture to be more precise). I will
